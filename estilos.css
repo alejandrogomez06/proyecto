@@ -1,0 +1,27 @@
+body{
+
+background-image:url(../Alejandro/fondofutbol.jpg);
+background-color: #000;
+}
+
+
+.center{
+	margin-lef:auto;
+	margin-right:auto;
+}
+h1{
+	font-weight:bold;
+	text-align:center;
+	font-family: Monaco,Bitstream Vera Sans Mono,Lucida Console,Terminal,monospace;
+	color: #fff;
+}
+
+h2{}
+figcaption {
+text-align:center;}
+
+img {
+	display: block;
+	width: 20px;
+	height.20px;
+}
